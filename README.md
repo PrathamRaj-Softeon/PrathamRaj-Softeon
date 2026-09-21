@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/github/actions/workflow/status/PrathamRaj-Softeon/PrathamRaj-Softeon/snake.yml?branch=main&style=flat-square&label=snake%20workflow" alt="snake workflow status" />
 </p>
 
+---
+
 ## Engineering Snapshot
 
 - Software Engineer at Softeon
@@ -33,6 +35,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,nextjs,nodejs,nestjs,python,postgres,mongodb,redis,docker,aws,git,linux,bash,figma&perline=9" alt="technology radar" />
 </p>
+
+---
 
 ## Live Profile Signals
 
@@ -48,6 +52,8 @@
   <img src="https://img.shields.io/github/languages/count/PrathamRaj-Softeon/school-parent-mobile?style=flat-square&label=school-parent-mobile%20languages" alt="school-parent-mobile language count" />
 </p>
 
+---
+
 ## Featured Repositories
 
 | Repository | Purpose | Main language | Last commit | Open issues |
@@ -57,15 +63,21 @@
 | [school-parent-mobile](https://github.com/PrathamRaj-Softeon/school-parent-mobile) | Parent mobile app for school workflows | ![lang](https://img.shields.io/github/languages/top/PrathamRaj-Softeon/school-parent-mobile?style=flat-square) | ![last](https://img.shields.io/github/last-commit/PrathamRaj-Softeon/school-parent-mobile?style=flat-square) | ![issues](https://img.shields.io/github/issues/PrathamRaj-Softeon/school-parent-mobile?style=flat-square) |
 | [qa-tools](https://github.com/PrathamRaj-Softeon/qa-tools) | Automation and QA productivity tooling | ![lang](https://img.shields.io/github/languages/top/PrathamRaj-Softeon/qa-tools?style=flat-square) | ![last](https://img.shields.io/github/last-commit/PrathamRaj-Softeon/qa-tools?style=flat-square) | ![issues](https://img.shields.io/github/issues/PrathamRaj-Softeon/qa-tools?style=flat-square) |
 
+---
+
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 - Profile automation is tracking latest public activity.
 <!--END_SECTION:activity-->
 
+---
+
 ## Contribution Motion
 
 ![contribution snake](https://raw.githubusercontent.com/PrathamRaj-Softeon/PrathamRaj-Softeon/output/github-contribution-grid-snake.svg)
+
+---
 
 ## Build Philosophy
 
@@ -73,3 +85,9 @@
 - Ship practical value in continuous increments
 - Optimize for long-term maintainability
 - Treat reliability and developer experience as first-class goals
+
+## Connect
+
+- GitHub: https://github.com/PrathamRaj-Softeon
+- Organization: https://github.com/Softeon-Inc
+- Email: prathamrajs@softeon.com
