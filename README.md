@@ -12,7 +12,7 @@
   <a href="https://github.com/PrathamRaj-Softeon?tab=followers"><img src="https://img.shields.io/github/followers/PrathamRaj-Softeon?style=for-the-badge&label=Followers&color=0f766e" alt="followers" /></a>
   <a href="https://github.com/PrathamRaj-Softeon?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repositories-Explore-0284c7?style=for-the-badge" alt="repositories" /></a>
   <a href="mailto:prathamrajs@softeon.com"><img src="https://img.shields.io/badge/Email-prathamrajs%40softeon.com-f59e0b?style=for-the-badge" alt="email" /></a>
-  <a href="https://github.com/Softeon-Inc"><img src="https://img.shields.io/badge/Company-Softeon%20Inc-dc2626?style=for-the-badge" alt="company" /></a>
+  <img src="https://img.shields.io/badge/Enterprise%20Work-Private%20Repositories-dc2626?style=for-the-badge" alt="enterprise work private" />
   <img src="https://komarev.com/ghpvc/?username=PrathamRaj-Softeon&style=for-the-badge&color=334155" alt="profile views" />
 </p>
 
@@ -47,21 +47,25 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/count/PrathamRaj-Softeon/qa-tools?style=flat-square&label=qa-tools%20languages" alt="qa-tools language count" />
-  <img src="https://img.shields.io/github/languages/count/PrathamRaj-Softeon/SwiftBill-ERP?style=flat-square&label=SwiftBill-ERP%20languages" alt="SwiftBill-ERP language count" />
-  <img src="https://img.shields.io/github/languages/count/PrathamRaj-Softeon/school-parent-mobile?style=flat-square&label=school-parent-mobile%20languages" alt="school-parent-mobile language count" />
+  <img src="https://img.shields.io/github/stars/PrathamRaj-Softeon/PrathamRaj-Softeon?style=flat-square&label=profile%20repo%20stars" alt="profile repo stars" />
+  <img src="https://img.shields.io/github/forks/PrathamRaj-Softeon/PrathamRaj-Softeon?style=flat-square&label=profile%20repo%20forks" alt="profile repo forks" />
+  <img src="https://img.shields.io/github/issues/PrathamRaj-Softeon/PrathamRaj-Softeon?style=flat-square&label=profile%20repo%20issues" alt="profile repo issues" />
 </p>
 
 ---
 
 ## Featured Repositories
 
-| Repository | Purpose | Main language | Last commit | Open issues |
-| --- | --- | --- | --- | --- |
-| [SwiftBill-ERP](https://github.com/PrathamRaj-Softeon/SwiftBill-ERP) | Enterprise billing and ERP workflows | ![lang](https://img.shields.io/github/languages/top/PrathamRaj-Softeon/SwiftBill-ERP?style=flat-square) | ![last](https://img.shields.io/github/last-commit/PrathamRaj-Softeon/SwiftBill-ERP?style=flat-square) | ![issues](https://img.shields.io/github/issues/PrathamRaj-Softeon/SwiftBill-ERP?style=flat-square) |
-| [creds-portal](https://github.com/PrathamRaj-Softeon/creds-portal) | Credential and web portal implementation | ![lang](https://img.shields.io/github/languages/top/PrathamRaj-Softeon/creds-portal?style=flat-square) | ![last](https://img.shields.io/github/last-commit/PrathamRaj-Softeon/creds-portal?style=flat-square) | ![issues](https://img.shields.io/github/issues/PrathamRaj-Softeon/creds-portal?style=flat-square) |
-| [school-parent-mobile](https://github.com/PrathamRaj-Softeon/school-parent-mobile) | Parent mobile app for school workflows | ![lang](https://img.shields.io/github/languages/top/PrathamRaj-Softeon/school-parent-mobile?style=flat-square) | ![last](https://img.shields.io/github/last-commit/PrathamRaj-Softeon/school-parent-mobile?style=flat-square) | ![issues](https://img.shields.io/github/issues/PrathamRaj-Softeon/school-parent-mobile?style=flat-square) |
-| [qa-tools](https://github.com/PrathamRaj-Softeon/qa-tools) | Automation and QA productivity tooling | ![lang](https://img.shields.io/github/languages/top/PrathamRaj-Softeon/qa-tools?style=flat-square) | ![last](https://img.shields.io/github/last-commit/PrathamRaj-Softeon/qa-tools?style=flat-square) | ![issues](https://img.shields.io/github/issues/PrathamRaj-Softeon/qa-tools?style=flat-square) |
+| Repository | Purpose | Visibility | Status |
+| --- | --- | --- | --- |
+| [PrathamRaj-Softeon](https://github.com/PrathamRaj-Softeon/PrathamRaj-Softeon) | Public profile home and automation workflows | Public | Active |
+
+## Enterprise Project Highlights
+
+- SwiftBill-ERP: enterprise billing and ERP workflows (private repository)
+- creds-portal: credential and portal product implementation (private repository)
+- school-parent-mobile: parent mobile app workflows (private repository)
+- qa-tools: internal QA acceleration utilities (private repository)
 
 ---
 
