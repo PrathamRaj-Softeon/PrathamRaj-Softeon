@@ -93,5 +93,5 @@
 ## Connect
 
 - GitHub: https://github.com/PrathamRaj-Softeon
-- Organization: https://github.com/Softeon-Inc
+- Organization: Softeon Inc (private)
 - Email: prathamrajs@softeon.com
