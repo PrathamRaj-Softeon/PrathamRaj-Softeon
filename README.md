@@ -12,7 +12,7 @@
   <a href="https://github.com/PrathamRaj-Softeon?tab=followers"><img src="https://img.shields.io/github/followers/PrathamRaj-Softeon?style=for-the-badge&label=Followers&color=0f766e" alt="followers" /></a>
   <a href="https://github.com/PrathamRaj-Softeon?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repositories-Explore-0284c7?style=for-the-badge" alt="repositories" /></a>
   <a href="mailto:prathamrajs@softeon.com"><img src="https://img.shields.io/badge/Email-prathamrajs%40softeon.com-f59e0b?style=for-the-badge" alt="email" /></a>
-  <img src="https://img.shields.io/badge/Enterprise%20Work-Private%20Repos-dc2626?style=for-the-badge" alt="enterprise work private" />
+  <img src="https://img.shields.io/badge/Focus-Enterprise%20SaaS-dc2626?style=for-the-badge" alt="focus enterprise saas" />
   <img src="https://komarev.com/ghpvc/?username=PrathamRaj-Softeon&style=for-the-badge&color=334155" alt="profile views" />
 </p>
 
@@ -63,12 +63,12 @@
 | --- | --- | --- | --- |
 | [PrathamRaj-Softeon](https://github.com/PrathamRaj-Softeon/PrathamRaj-Softeon) | Public profile home with automation workflows | Public | Active |
 
-## Enterprise Project Highlights
+## Project Domains
 
-- SwiftBill-ERP: enterprise billing and ERP workflows (private repository)
-- creds-portal: credential and portal product implementation (private repository)
-- school-parent-mobile: parent mobile app workflows (private repository)
-- qa-tools: internal QA acceleration utilities (private repository)
+- Enterprise billing and ERP workflows
+- Credential and portal user experiences
+- Mobile app workflow delivery
+- QA automation and developer productivity
 
 ---
 
