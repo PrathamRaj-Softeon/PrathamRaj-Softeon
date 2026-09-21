@@ -1,5 +1,7 @@
 # Modern Dynamic GitHub Profile Home
 
+Last updated: 2026-09-22
+
 This README is for your GitHub profile page.
 To make it live, put this file in a repository named exactly `PrathamRaj-Softeon`.
 
